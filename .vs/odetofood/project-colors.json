@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "affeddba-ba22-4f3d-b164-fad4eff85b91": {
+      "ProjectGuid": "affeddba-ba22-4f3d-b164-fad4eff85b91",
+      "DisplayName": "OdetoFood.web",
+      "ColorIndex": 0
+    },
+    "cab33048-2757-40f7-b11e-9d012e106298": {
+      "ProjectGuid": "cab33048-2757-40f7-b11e-9d012e106298",
+      "DisplayName": "OdetoFood.data",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
